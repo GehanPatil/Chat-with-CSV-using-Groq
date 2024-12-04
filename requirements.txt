@@ -1,0 +1,7 @@
+langchain
+langchain_community
+streamlit
+groq
+langchain-groq
+python-dotenv
+pandasai==1.4.10
